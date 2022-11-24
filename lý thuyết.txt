@@ -1,0 +1,16 @@
+1. thuật toán là gì
+- thuật toán là một chuỗi hướng dẫn rõ ràng để giải quyết một vấn để, 
+để có được các  yêu cầu đầu ra cho các yêu cầu đầu vào hợp lệ 
+2. tại sao phải học thuật tóan 
+- tầm quan trọng của học lý thuyết
+* bộ công cụ của các thuật toán đã biết 
+* là khung mẫu cho việc thiết kế và phân tích thuật toán cho các vấn đề mới
+- các thuật toán có hiệu quả 
+* brute force 
+* 
+- một thuật toán tốt là
+* có thời gian hiệu quả 
+* có không gian hiệu quả 
+- thuật toán tốt hơn là thuật toán 
+* có giới hạn thấp hơn 
+* tối ưu hơn 
